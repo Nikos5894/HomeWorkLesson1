@@ -15,7 +15,6 @@ public class Main {
         result2 = a*(x+x)/y-a+3;
         result3 = a+b/x-y;
         result4 = X-e/2%e+1;
-        System.out.println(x+y-a/2*(x+w));
         System.out.printf("x+y-a/2*(x+w)\n" +
                 "result1 = %f\n" +
                 "a*(x+x)/y-a*3\n" +
