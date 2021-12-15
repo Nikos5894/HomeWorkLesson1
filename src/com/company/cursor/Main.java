@@ -18,7 +18,7 @@ public class Main {
         System.out.println(x+y-a/2*(x+w));
         System.out.printf("x+y-a/2*(x+w)\n" +
                 "result1 = %f\n" +
-                "*(x+x)/y-a*3\n" +
+                "a*(x+x)/y-a*3\n" +
                 "result2 = %f\n" +
                 "a+b/x-y\n" +
                 "result3 = %f\n" +
